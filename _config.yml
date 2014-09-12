@@ -1,0 +1,13 @@
+# Site settings
+title: Andreas Karlsson
+email: mail@andreas-karlsson.com
+author: Andreas Karlsson
+description: ""
+baseurl: ""
+url: "http://andreas-karlsson.com"
+google_analytics:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
