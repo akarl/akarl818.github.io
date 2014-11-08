@@ -1,13 +1,12 @@
 # Site settings
 title: Andreas Karlsson
 email: mail@andreas-karlsson.com
-author: Andreas Karlsson
-description: ""
-baseurl: ""
-url: "http://andreas-karlsson.com"
-google_analytics:
+description: > # this means to ignore newlines until "baseurl:"
+    Somthing written here
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://andreas-karlsson.com" # the base hostname & protocol for your site
+twitter_username: akarl_
+github_username:  akarl818
 
 # Build settings
 markdown: kramdown
-permalink: pretty
-paginate: 3
